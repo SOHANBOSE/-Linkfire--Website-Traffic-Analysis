@@ -1,5 +1,4 @@
 # Linkfire Website Traffic Analysis 
-Download Datasets
 This data project has been used as a take-home assignment in the recruitment process for the data science positions at Linkfire.
 
 Assignment
@@ -14,5 +13,4 @@ The goal of this project is to understand this traffic better, in particular the
 Data Description
 The data set provided (traffic.csv) contains web traffic data ("events") from a few different pages ("links") over a period of 7 days including various categorical dimensions about the geographic origin of that traffic as well as a page's content: isrc.
 
-Practicalities
-Please work on the questions in the displayed order. Make sure that the solution reflects your entire thought process - it is more important how the code is structured rather than the final answers. You are expected to spend no more than 2-3 hours solving this project.
+
